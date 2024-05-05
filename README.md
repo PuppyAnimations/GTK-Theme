@@ -30,4 +30,3 @@ unzip -o -q "icon/Tokyonight-Light-Icons.zip" -d ~/.icons
 ```
 #### 📖 CREDIT and Source
 - [Tokyo Night GTK themes and Icons](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme)
-
